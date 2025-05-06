@@ -1,4 +1,4 @@
-# Day 7: Two Sum
+# Day 7: Rotate List 
 
 ## 🔗 Problem Link
 [LeetCode - Two Sum](https://leetcode.com/problems/two-sum/)
